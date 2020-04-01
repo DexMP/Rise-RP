@@ -160,3 +160,46 @@
 .partners a:hover{
 	text-decoration: underline;
 }
+
+/* ===============|\\ Правила //|===============*/
+
+
+.rules {
+	text-align: center;
+	border: 5px solid silver;
+	border-radius: 10px;
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+}
+
+.rules .rule {
+	text-align: center;
+	border: 3px dashed gray;
+	border-radius: 5px;
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.rules .rule p {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.rules .rule h3 {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	color: black;
+	font-size: 40px;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
